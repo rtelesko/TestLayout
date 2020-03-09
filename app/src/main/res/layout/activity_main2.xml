@@ -31,7 +31,7 @@
         android:layout_toRightOf="@id/textView4"
         android:layout_marginLeft="10dp"
         android:layout_alignBaseline="@id/textView4"
-        android:ems="10"
+        android:textSize="20sp"
         android:inputType="textPersonName"
         android:text="Name" />
 
